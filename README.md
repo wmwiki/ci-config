@@ -1,0 +1,2 @@
+# ci-config
+CodeIgniter Config
